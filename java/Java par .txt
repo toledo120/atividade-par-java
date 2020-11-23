@@ -1,0 +1,21 @@
+package par_MarcosHenrique;
+import java.util.Scanner;
+public class par_MarcosHenrique
+{
+	public static void main(String[] args)
+	{
+	
+		int = nume = 1000;
+
+		while(nume<1500)
+
+		{
+
+			num = nume+2;
+			system.out.println(nume)
+
+		}
+	
+	}
+
+}
